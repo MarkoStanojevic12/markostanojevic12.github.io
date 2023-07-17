@@ -13,3 +13,6 @@ MMaterial is a collection of carefully crafted UI components built for Qt. It is
 
 ## Sidenote
 This is still work in progress, this showcase represents the things that are ready. The component library will be available as **view only** until it's ready for public use.
+
+## Link for preview
+[https://markostanojevic12.github.io/appMaterialTester.html](URL)

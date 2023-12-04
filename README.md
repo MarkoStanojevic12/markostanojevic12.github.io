@@ -11,8 +11,8 @@ MMaterial is a collection of carefully crafted UI components built for Qt. It is
 * **Customization Options**: MMaterial components are highly customizable, allowing you to tailor them to fit your application's specific design requirements.
 * **Accessibility and Responsiveness**: MMaterial places a strong emphasis on accessibility and responsiveness, ensuring that your application is usable across different devices and for users with diverse needs.
 
-## Sidenote
-This is still work in progress, this showcase represents the things that are ready. The component library will be available as **view only** until it's ready for public use.
-
 ## Link for preview
 https://markostanojevic12.github.io/appMaterialTester.html
+
+## Link for repo
+https://github.com/MarkoStanojevic12/Material-Qt

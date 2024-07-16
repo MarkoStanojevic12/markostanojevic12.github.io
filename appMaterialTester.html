@@ -52,12 +52,12 @@
                         {
                             status.innerHTML = 'Application exit';
                             status.innerHTML +=
-                                exitData.code !== undefined ? ` with code ` : '';
+                                exitData.code !== undefined ? ` with code ${exitData.code}` : '';
                             status.innerHTML +=
-                                exitData.text !== undefined ? ` ()` : '';
+                                exitData.text !== undefined ? ` (${exitData.text})` : '';
                             showUi(spinner);
                         },
-                        entryFunction: window.createQtAppInstance,
+                        entryFunction: window.appMaterialTester_entry,
                         containerElements: [screen],
                         
                     }
